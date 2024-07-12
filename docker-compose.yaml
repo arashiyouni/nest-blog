@@ -1,0 +1,14 @@
+version: '4'
+
+services:
+  db:
+    image: mongo:5
+    restart: always
+    ports:
+      - 54322:27017
+    expose:
+      - 21017
+    environment:
+      MONGODB_DATABASE: nest-blog
+    volumes:
+      - ./mongo:/data/db
