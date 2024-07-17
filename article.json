@@ -1,0 +1,80 @@
+[
+  {
+    "title": "Dominando el Desarrollo Web Moderno",
+    "description": "Adéntrate en el mundo del desarrollo web con las últimas tecnologías y frameworks.",
+    "datePublish": "2024-07-15",
+    "tags": ["#development", "#frontend", "#backend"]
+  },
+  {
+    "title": "Inteligencia Artificial: El Futuro Ya Está Aquí",
+    "description": "Descubre cómo la IA está transformando el mundo y cómo puedes ser parte de ello.",
+    "datePublish": "2024-07-14",
+    "tags": ["#ia", "#development"]
+  },
+  {
+    "title": "Crea Aplicaciones Móviles con React Native",
+    "description": "Aprende a crear apps multiplataforma con el popular framework React Native.",
+    "datePublish": "2024-07-13",
+    "tags": ["#development", "#frontend", "#mobile"]
+  },
+  {
+    "title": "Desarrolla Tu Propia Tienda Online con WooCommerce",
+    "description": "Crea un ecommerce desde cero utilizando la plataforma líder en comercio electrónico.",
+    "datePublish": "2024-07-12",
+    "tags": ["#development", "#backend", "#ecommerce"]
+  },
+  {
+    "title": "Domina el Arte del Diseño UX/UI",
+    "description": "Aprende a crear interfaces de usuario atractivas y fáciles de usar.",
+    "datePublish": "2024-07-11",
+    "tags": ["#design"]
+  },
+  {
+    "title": "SEO: Posiciona Tu Sitio Web en Google",
+    "description": "Optimiza tu sitio web para que aparezca en los primeros resultados de búsqueda.",
+    "datePublish": "2024-07-10",
+    "tags": ["#seo"]
+  },
+  {
+    "title": "Análisis de Datos para Principiantes",
+    "description": "Aprende los fundamentos del análisis de datos y toma mejores decisiones.",
+    "datePublish": "2024-07-09",
+    "tags": ["#learning"]
+  },
+  {
+    "title": "Ciberseguridad: Protege Tu Información Online",
+    "description": "Aprende a protegerte de las amenazas cibernéticas y mantenerte seguro en internet.",
+    "datePublish": "2024-07-08",
+    "tags": ["#cybersecurity"]
+  },
+  {
+    "title": "Marketing Digital: Atrae Más Clientes a Tu Negocio",
+    "description": "Implementa estrategias de marketing digital efectivas para hacer crecer tu negocio.",
+    "datePublish": "2024-07-07",
+    "tags": ["#marketing"]
+  },
+  {
+    "title": "Fotografía: Captura Momentos Memorables",
+    "description": "Aprende las técnicas básicas de la fotografía y toma fotos increíbles.",
+    "datePublish": "2024-07-06",
+    "tags": ["#art"]
+  },
+  {
+    "title": "Edición de Video: Crea Contenido Impactante",
+    "description": "Aprende a editar videos como un profesional y crea contenido que atrape a tu audiencia.",
+    "datePublish": "2024-07-05",
+    "tags": ["#art"]
+  },
+  {
+    "title": "Idiomas: Amplía Tus Horizontes",
+    "description": "Aprende un nuevo idioma y abre las puertas a nuevas oportunidades.",
+    "datePublish": "2024-07-03",
+    "tags": ["#learning"]
+  },
+  {
+    "title": "Emprendimiento: Convierte Tus Ideas en Realidad",
+    "description": "Aprende a emprender y crea tu propio negocio exitoso.",
+    "datePublish": "202",
+    "tags": ["#learning"]
+  }
+]
