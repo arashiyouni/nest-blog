@@ -71,4 +71,6 @@ Type Tags:
 - **Marketing** = '#marketing',
 - **art** = '#art'
 
+## Challengue
+- Implementar: [Design Patter Adapter](https://refactoring.guru/es/design-patterns/adapter)
 📌📖 Reference project: [Roadmap - project ideas backend](https://roadmap.sh/backend/project-ideas#1-personal-blogging-platform-api)
