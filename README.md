@@ -71,4 +71,4 @@ Type Tags:
 - **Marketing** = '#marketing',
 - **art** = '#art'
 
-📌📖 Reference project: [Personal Blogging Platform API - Project ideas backend](https://roadmap.sh/projects/personal-blog)
+📌📖 Reference project: [Personal Blogging Platform API - Project ideas backend]([https://roadmap.sh/projects/personal-blog](https://roadmap.sh/projects/blogging-platform-api))
